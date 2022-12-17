@@ -1,6 +1,6 @@
 # Wandering-In-the-Woods-
 
- User’s guide 
+# User’s guide 
 ∙ Start PyCharm : Open the PyCharm ide on your device. Create a new project.
 ∙ Open the “Open” dialog, navigate to the folder where the project file is located. In the project window, right-click the project name and select "New > Python File".  
 ∙ Select the project file:Select the project file and click open. PyCharm will open the  project file into the PyCharm window 
